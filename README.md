@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/naveen3830)
+=======
+[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMwMDEzNTUsIm5iZiI6MTcwMzAwMTA1NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE5VDE1NTA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2YzZjMTE3YjFiNDlmYmU4NWNkZjJhZjc5MGUzMGVkYzRmODcwMGJjNDQwMGRkYTg5M2RjNDM3OWIwMDY3OWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CwiYYwQqkjvF2mU4YNDht-HO60DakYWyWbfh3LE6HHY)](https://github.com/naveen3830)
+>>>>>>> 50b92d0bdaeb3ad96ce65942bf89fe3316610f2f
 <h1 align="center">Hi 👋, I'm Naveen R</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
