@@ -39,8 +39,10 @@
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 </h3>
 <hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen3830&show_icons=true&locale=en&layout=compact" alt="naveen3830" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen3830&show_icons=true&locale=en" alt="naveen3830" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen3830&" alt="naveen3830" /></p>
