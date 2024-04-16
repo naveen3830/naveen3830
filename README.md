@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/naveen3830" target="blank"><img src="https://img.shields.io/twitter/follow/naveen3830?logo=twitter&style=for-the-badge" alt="naveen3830" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL, JavaScript**
+- 🌱 I’m currently learning **Machine Learning, SQL**
 
 - 📫 How to reach me **naveenr3830@gmail.com**
 
