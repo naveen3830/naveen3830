@@ -34,7 +34,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen3830&show_icons=true&locale=en&layout=compact" alt="naveen3830" /></p>
 <br>
-
+![](https://raw.githubusercontent.com/naveen3830/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/3830/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen3830&show_icons=true&locale=en" alt="naveen3830" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen3830&" alt="naveen3830" /></p>
