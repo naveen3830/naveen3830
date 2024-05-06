@@ -1,14 +1,11 @@
-
-
 <h1 align="center">Hi 👋, I'm Naveen R</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen3830&label=Profile%20views&color=0e75b6&style=flat" alt="naveen3830" /> </p>
 
 <p align="left"> <a href="https://twitter.com/naveen3830" target="blank"><img src="https://img.shields.io/twitter/follow/naveen3830?logo=twitter&style=for-the-badge" alt="naveen3830" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 - 🌱 I’m currently learning **Machine Learning, SQL**
 
@@ -25,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3>
+<h3 align="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="R" src="https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white"/>
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
