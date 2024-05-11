@@ -49,7 +49,7 @@
 
 ### Top Used Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={naveen3830}&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen3830&theme=blue-green" />
 
 
 
