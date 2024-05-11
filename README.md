@@ -46,7 +46,7 @@
 
 ---
 
-### Top Usage Languages:
+### Top Used Languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen3830&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
