@@ -6,17 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=naveen3830&color=brightgreen)
 
-- 🧠 Diving into Deep Learning (Neural Networks + Natural Language Processing + Computer Vision). 😎
-- 🌱 Aspiring to achieve mastery in Deep Learning techniques and LLMs ❤
-- 💻 Excited about exploring cutting-edge algorithms and building intelligent systems.
-- 📰 Constantly delving into research papers and documentation on Deep Learning.
-- 🥅 2024 Goals: Become proficient in deploying Deep Learning models at scale.
-- ⚡ Fun fact: Overfitting is the mortal enemy of Neural Networks! 🤣
----
-
 ### About Me:
 
-📊 I'm a dedicated data enthusiast with a keen eye for deciphering intricate patterns concealed within datasets. My journey in the realm of data science is driven by an unyielding curiosity and a passion for deriving meaningful insights from the vast expanse of data.
+📊 I'm a dedicated data enthusiast with an eye for deciphering intricate patterns concealed within datasets. My journey in data science is driven by an unyielding curiosity and a passion for deriving meaningful insights from the vast expanse of data.
 
 🧮 Equipped with a solid foundation in mathematics and statistics, I relish the challenge of translating raw data into actionable intelligence. From conducting exploratory data analysis to constructing predictive models, I continually strive to push the boundaries of data science.
 
