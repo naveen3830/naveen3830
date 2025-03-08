@@ -52,3 +52,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen3830&theme=blue-green&layout=compact&hide_border=true" alt="Top Languages">
 </p>
+
+---
+
+![](https://github-profile-trophy.vercel.app/?username=naveen3830&theme=radical&no-frame=false&no-bg=false&margin-w=4)
