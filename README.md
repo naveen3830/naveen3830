@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an **AI Engineer & Data Scientist** based in **Bengaluru**, with an MSc in Data Science from Christ University and around 2 years of professional experience.
 
@@ -36,7 +36,7 @@ I work on building practical AI and ML solutions, including LLM-powered applicat
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -84,7 +84,7 @@ I work on building practical AI and ML solutions, including LLM-powered applicat
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/naveen3830/sp500-price-predictor">
@@ -102,7 +102,6 @@ I work on building practical AI and ML solutions, including LLM-powered applicat
 </p>
 
 ---
-
 ## GitHub Statistics
 
 <table align="center">
