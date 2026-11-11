@@ -103,23 +103,24 @@ I work on building practical AI and ML solutions, including LLM-powered applicat
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=naveen3830&show_icons=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=8b949e&bg_color=00000000" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=naveen3830&layout=compact&langs_count=8&hide_border=true&title_color=6AD3F7&text_color=8b949e&bg_color=00000000" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=naveen3830">
-    <img src="https://github-stats-extended.vercel.app/api?username=naveen3830&show_icons=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=8b949e&bg_color=00000000" alt="GitHub Stats" width="100%"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=naveen3830&theme=transparent&hide_border=true&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak" width="70%"/>
 </p>
 
-<p align="center">
-  <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=naveen3830">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=naveen3830&layout=compact&langs_count=8&hide_border=true&title_color=6AD3F7&text_color=8b949e&bg_color=00000000" alt="Top Languages" width="100%"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=naveen3830&theme=transparent&hide_border=true&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak" width="100%"/>
-</p>
+---
 
 <p align="center">
   <i>Thanks for stopping by! If something here interests you, feel free to reach out. 🙌</i>
